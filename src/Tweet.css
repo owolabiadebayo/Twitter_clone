@@ -1,0 +1,29 @@
+.icon1 {
+  margin-left: 30px;
+}
+.icon2 {
+  margin-left: 30px;
+}
+.icon3 {
+  margin-left: 30px;
+}
+.changeColor{
+  color: red
+}
+
+.tag{
+background-color: red;
+}
+#hello{
+  float: right;
+}
+#message{
+  padding: 1px;
+  height: 120px;
+  border: 3px solid black;
+  word-wrap: break-word !important;
+  background-color: white;
+}
+button{
+  margin-right: 10px;
+}

@@ -1,0 +1,25 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.section {
+  padding-top: 4vw;
+  padding-bottom: 4vw;
+}
+
+.tabs .indicator {
+  background-color: #1a237e;
+}
+.tabs .tab a:focus,
+.tabs .tab a:focus.active {
+  background: transparent;
+}
+@media screen and (max-width: 670px) {
+  header {
+    min-height: 500px;
+  }
+}
